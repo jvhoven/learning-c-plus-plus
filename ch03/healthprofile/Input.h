@@ -6,7 +6,7 @@
 #include <vector>
 #include "Date.h"
 
-#ifndef __INPUT_INCLUDED__ 
+#ifndef __INPUT_INCLUDED__
 #define __INPUT_INCLUDED__
 
 class Input {
