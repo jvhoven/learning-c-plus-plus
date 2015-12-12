@@ -127,5 +127,5 @@ int main() {
     // draw d
     //d();
 
-    cout << diamond(46);
+    cout << diamond(500);
 }
